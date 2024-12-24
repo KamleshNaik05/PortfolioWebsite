@@ -1,0 +1,30 @@
+img{
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 120px;
+    flex-wrap: wrap;
+  }
+.Info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #004d66;
+    gap: 35px;
+    flex-wrap: wrap;
+    margin-bottom: 150px;
+}
+.Info h1{
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    font-weight: 600;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+    flex-wrap: wrap;
+}
+.Info p{
+    text-align: center;
+    width: 50%;
+    font-size: 24px;
+    line-height: 40px;
+    flex-wrap: wrap;
+}
